@@ -1,3 +1,4 @@
 background-color:#00f;
 fon-wight:bold;
 color:#F00;
+font-size:18px;
